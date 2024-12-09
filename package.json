@@ -1,13 +1,16 @@
 {
   "name": "node_3",
   "version": "1.0.0",
-  "description": "''",
+  "description": "movies mini-server",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "nodemon index.js"
   },
-  "author": "''",
+  "author": "",
   "dependencies": {
-    "express": "^4.21.2"
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2",
+    "fs": "^0.0.1-security",
+    "nodemon": "^3.1.7"
   }
 }

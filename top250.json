@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "The Shawshank Redemption",
+    "rating": "9.3",
+    "year": 1994,
+    "budget": 25000000,
+    "gross": 28341469,
+    "poster": "https://image.tmdb.org/t/p/w500/q6y0Go1tsG3QhjrAOX0B40blg4.jpg",
+    "position": 1
+  },
+  {
+    "id": 2,
+    "title": "The Godfather",
+    "rating": "9.2",
+    "year": 1972,
+    "budget": 6000000,
+    "gross": 245066411,
+    "poster": "https://image.tmdb.org/t/p/w500/3bhKrG86F9CF8iYRYs3ik0Pr1.jpg",
+    "position": 2
+  },
+  {
+    "id": 3,
+    "title": "Home Alone",
+    "rating": "10",
+    "year": 1990,
+    "budget": 18000000,
+    "gross": 476700000,
+    "poster": "https://en.wikipedia.org/wiki/Home_Alone#/media/File:Home_alone_poster.jpg",
+    "position": 3
+  }
+]
